@@ -1,6 +1,6 @@
 [project]
 name = "xcodebuild"
-version = "0.1.0"
+version = "0.2.0"
 description = "A MCP tool that builds iOS Xcode workspace/project and send error back. It also helps to run test and feed the error back to llm."
 authors = [{ name = "Tim Wang" }]
 maintainers = [{ name = "Tim Wang", email = "overocean@gmail.com" }]
