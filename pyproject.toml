@@ -1,7 +1,7 @@
 [project]
 requires-python = ">=3.13"
 name = "xcodebuild"
-version = "0.3.0"
+version = "0.4.0"
 description = "A MCP tool that builds iOS Xcode workspace/project and send error back. It also helps to run test and feed the error back to llm."
 authors = [{ name = "Tim Wang" }]
 maintainers = [{ name = "Tim Wang", email = "overocean@gmail.com" }]
