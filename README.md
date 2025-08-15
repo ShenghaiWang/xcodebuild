@@ -2,6 +2,7 @@
 
 A Model Context Protocol server that builds iOS workspace/project that enables seamless workflow working with iOS projects in Visual Studio Code using extensions like Cline or Roo Code.
 
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/ShenghaiWang/xcodebuild)](https://archestra.ai/mcp-catalog/shenghaiwang__xcodebuild)
 <a href="https://glama.ai/mcp/servers/5ibnbzxmql">
   <img width="380" height="200" src="https://glama.ai/mcp/servers/5ibnbzxmql/badge" alt="mcpxcodebuild MCP server" />
 </a>
